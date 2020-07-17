@@ -1,0 +1,29 @@
+ul li{
+    list-style-type: none;
+  }
+  img{
+    width:100%;
+    height: 100%;
+  }
+  .btn-group-justified{
+    position: fixed;
+    padding-right: 15px;
+     z-index: 1;
+
+  }
+  .category{
+    border-radius: black ;
+    border-radius: 3px;
+    //background-color: yellow;
+    padding-left: 45px;
+    margin-right: 15px;
+  }
+  .btn-success button{
+    width: 100%;
+  }
+  .content {
+
+    padding-top: 50px;
+    z-index: 2;
+   //margin-bottom: 30px;
+  }
